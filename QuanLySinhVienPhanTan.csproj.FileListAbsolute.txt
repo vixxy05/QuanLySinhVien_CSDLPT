@@ -1,0 +1,16 @@
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.csproj.AssemblyReference.cache
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.Properties.Resources.resources
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.csproj.GenerateResource.cache
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.csproj.CoreCompileInputs.cache
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\bin\Debug\QuanLySinhVienPhanTan.exe.config
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\bin\Debug\QuanLySinhVienPhanTan.exe
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\bin\Debug\QuanLySinhVienPhanTan.pdb
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.exe
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.pdb
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.exe.config
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.frmLogin.resources
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.frmConnectionManager.resources
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.frmMenu.resources
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.frmMain.resources
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.frmSinhVien.resources
+D:\CƠ SỞ DỮ LIỆU PHÂN TÁN LÝ THUYẾT\QuanLySinhVienPhanTan\obj\Debug\QuanLySinhVienPhanTan.frmCreateDatabase.resources
